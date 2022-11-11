@@ -1,0 +1,88 @@
+/* The navigation bar */
+.navbar {
+    overflow: hidden;
+  
+    position: relative; 
+    top: 0; 
+    width: 1240px; 
+    height: 48px;
+  }
+  
+  /* Links inside the navbar */
+    #h1 {
+        
+        width: 57px;
+        height: 25px;
+        font-family: 'Red Rose';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 25px;
+        color: #434343;
+        flex: none;
+        order: 0;
+        flex-grow: 0;
+        padding-left: 450px;
+  }
+
+  #h2 {
+    width: 125px;
+    height: 25px;
+    font-family: 'Red Rose';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    color: #434343;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    padding: 12px;
+  }
+
+  #h3 {
+    width: 52px;
+    height: 25px;
+    font-family: 'Red Rose';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+    padding: 12px;
+  }
+
+  #h4 {
+    width: 111px;
+    height: 25px;
+    font-family: 'Red Rose';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    color: #434343;
+    flex: none;
+    order: 3;
+    flex-grow: 0;
+    padding: 12px;
+  }
+
+
+  /* Change background on mouse-over */
+  .navbar a:hover {
+    color: black;
+  }
+
+  #house {
+    position: absolute;
+    left: 0%;
+    right: 96.61%;
+  }
+
+  #meta {
+    position: absolute;
+    left: 3.62%;
+    right: 81.21%;
+  }

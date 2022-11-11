@@ -1,8 +1,8 @@
-import './App.css';
+import Homepage from './homepage.js'
 
 function App() {
   return (
-    null
+    <Homepage />
   );
 }
 

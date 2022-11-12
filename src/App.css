@@ -156,3 +156,11 @@
     width: 100%;
     padding-top: 70px;
   }
+
+  #slogan {
+    text-align: center;
+    color: #000000;
+    font-family: 'Red Rose';
+    font-size: 48px;
+    font-weight: 700px;
+  }

@@ -164,3 +164,14 @@
     font-size: 48px;
     font-weight: 700px;
   }
+
+  .row2 { 
+    float: center;
+  }
+
+  .Fit { 
+    background: linear-gradient(124.4deg, #FFFFFF 10.8%, #FFFFFF 87.34%);
+    border-radius: 15px;
+    box-sizing: border-box;
+    padding: 12px;
+  }

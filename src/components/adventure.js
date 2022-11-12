@@ -11,18 +11,18 @@ import place8 from '/home/mntwana/metabnb/src/Assets/place8.png';
 export default function adventure() {
     return (
         <div>
-            <div className="row">
-                <div className="column">
-                    <img src={place1} alt='place1' />
-                    <img src={place2} alt='place2' />
-                    <img src={place3} alt='place3' />
-                    <img src={place4} alt='place4' />
+            <div className="row2">
+                <div>
+                    <img className="Fit" src={place1} alt='place1' />
+                    <img className="Fit"  src={place2} alt='place2' />
+                    <img className="Fit"  src={place3} alt='place3' />
+                    <img className="Fit"  src={place4} alt='place4' />
                 </div>
-                <div classNaame="column">
-                    <img src={place5} alt='place5' />
-                    <img src={place6} alt="place6" />
-                    <img src={place7} alt='place7' />
-                    <img src={place8} alt='place8' />
+                <div>
+                    <img className="Fit"  src={place5} alt='place5' />
+                    <img className="Fit"  src={place6} alt="place6" />
+                    <img className="Fit"  src={place7} alt='place7' />
+                    <img className="Fit"  src={place8} alt='place8' />
 
                 </div>
             </div>

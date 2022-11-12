@@ -3,6 +3,7 @@ import mansion1 from '/home/mntwana/metabnb/src/Assets/mansion1.png';
 import wintercastle1 from '/home/mntwana/metabnb/src/Assets/wintercastle1.png';
 import playground1 from '/home/mntwana/metabnb/src/Assets/playgound1.png';
 import castle1 from '/home/mntwana/metabnb/src/Assets/castle1.png';
+import frame1 from '/home/mntwana/metabnb/src/Assets/Frame 1.png';
 
 export default function Body() {
     return (
@@ -36,6 +37,9 @@ export default function Body() {
                     <input id="Sbox" type="text" placeholder="Search.." name="search" />
                     <button id="Sbutton" type="submit"><i class="fa fa-search"></i>Search</button>
                 </form>
+            </p>
+            <p>
+                <img id="frame1" src={frame1} alt='frame1' />
             </p>
 
 

@@ -33,3 +33,13 @@ I should be doing these extra hard stuff just to build the muscles.
 .I feels like this is where i get out, this shit really hard. like wow. but after this it's going to get easier for you bro.why not just push and pass stage 4 then you defintly getting into the finals.
 .Ok i will break this down into componets like i should and will build a real working app.
 .This thing is actually nice i'm learning here, Embrace googling.
+
+13/11/2022
+."If it was easy it wouldn't be learning you would be just doing what you know" -mark essien.
+-Asipheli mandla selokhu sibuyile.
+.Just used my first component life's Good(LG).
+.A component is just a function that returns a jsx function.
+.https://www.youtube.com/watch?v=0sSYmRImgRY  (react tutorials)
+.w3Schools is great. For everything you need jjust type it in question then add 'w3schools' at the end, then you get your suace.
+.This is actually not that  hard, i can do it (luaghs out loud).
+.This thing is easy, just pulled it off. Time is my only challenge really.

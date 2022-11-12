@@ -19,13 +19,13 @@ export default function Body() {
 
                     </div>
                 </div>
-                <dl>
-                    <dt>Rent a Place away from</dt>
-                    <dt>Home in the Metaverse</dt>
+                <dl id='para1'>
+                    <dt>Rent a <strong className='hstrong' >Place</strong> away from</dt>
+                    <dt> <strong className='hstrong' >Home</strong> in the <strong className='hstrong' >Metaverse</strong></dt>
                 </dl>
             </p>
             <p>
-                <dl>
+                <dl id='para2'>
                     <dt>we provide you access to luxury and affordable houses</dt>
                     <dt>in the metaverse get a chance to turn your imagination</dt>
                     <dt>to reality at your comfort zone</dt>
@@ -33,8 +33,8 @@ export default function Body() {
             </p>
             <p>
                 <form class="example" action="action_page.php">
-                    <input type="text" placeholder="Search.." name="search" />
-                    <button type="submit"><i class="fa fa-search"></i>Search</button>
+                    <input id="Sbox" type="text" placeholder="Search.." name="search" />
+                    <button id="Sbutton" type="submit"><i class="fa fa-search"></i>Search</button>
                 </form>
             </p>
 

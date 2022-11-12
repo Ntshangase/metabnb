@@ -175,3 +175,40 @@
     box-sizing: border-box;
     padding: 12px;
   }
+
+  #Backnft {
+    background: linear-gradient(90deg, #A02279 11.45%, #A02279 11.45%);
+    border: 1px solid #000000;
+  }
+
+  #para3 {
+    background: linear-gradient(124.4deg, #FFFFFF 10.8%, #FFFFFF 87.34%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    font-family: 'Red Rose';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 35px;
+    padding-left: 100px;
+  }
+
+  #slog2 {
+    background: linear-gradient(124.4deg, #FFFFFF 10.8%, #FFFFFF 87.34%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    font-family: 'Red Rose';
+    font-style: bold;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 60px;
+    padding-left: 100px;
+    padding-top: 186px;
+  }
+
+  #lenButton {
+    background: linear-gradient(124.4deg, #FFFFFF 10.8%, #FFFFFF 87.34%);
+    border-radius: 8px;
+  }

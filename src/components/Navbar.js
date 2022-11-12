@@ -4,7 +4,7 @@ import Hmeta from '/home/mntwana/metabnb/src/Assets/Hmetabnb.png';
 
 export default function Navbar() {
   return (
-    <div classNanme="navbar"> 
+    <div className="navbar"> 
     <img id="house" src={Hhouse} alt="House" ></img>
     <img id="meta"  src={Hmeta} alt="Hmeta" ></img>
 

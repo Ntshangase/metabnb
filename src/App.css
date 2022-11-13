@@ -235,3 +235,10 @@
     left: 637px;
     top: 100px;
   }
+
+  #backplaces {
+    position: relative;
+    width: 1440px;
+    height: 2292px;
+    background: #FFFFFF;
+  }

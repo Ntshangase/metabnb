@@ -43,3 +43,13 @@ I should be doing these extra hard stuff just to build the muscles.
 .w3Schools is great. For everything you need jjust type it in question then add 'w3schools' at the end, then you get your suace.
 .This is actually not that  hard, i can do it (luaghs out loud).
 .This thing is easy, just pulled it off. Time is my only challenge really.
+
+14/11/2022
+.I have mastered the art of working with figma. Thank you. A lot of it is just copy and paste even if you download the components from the page that works.
+.Time is my real battle, how to do this. the hard way or cut&paste way?. the real question i have to answer. Forced
+to do it the hard way all in, see you at the finish line.
+.here comes the bloackade again, I have been at it for a minute though. Finishing the second page today is the goal.
+.Taking a break helps broe it's hard pulling a 24hour's, so when you feel like resting you definetly should,
+it helps you come back stronger with a fresher mind. Look now i'm solving problems with ease.
+.it might be good practise to first cleane the bugs i see cuase they might be cuasing the other 'bugs'.
+.mr come alive in the night time.

@@ -14,7 +14,7 @@ export default function Navbar() {
         <a id="h3" href="#nft">NFTs</a>
         <a id="h4" href="#community">Community</a>
       </div>
-      <a id="h5" href="wallet">Connect wallet</a>
+      <a id="h5" href="wallet"><p id='text'>Connect wallet</p></a>
     </div>
   )
 }

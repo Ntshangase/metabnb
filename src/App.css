@@ -22,6 +22,7 @@
       flex: none;
       order: 0;
       flex-grow: 0;
+      text-decoration: none;
   }
 
   #h2 {
@@ -36,6 +37,7 @@
     flex: none;
     order: 1;
     flex-grow: 0;
+    text-decoration: none;
   }
 
   #h3 {
@@ -50,6 +52,7 @@
     flex: none;
     order: 2;
     flex-grow: 0;
+    text-decoration: none;
   }
 
   #h4 {
@@ -64,6 +67,7 @@
     flex: none;
     order: 3;
     flex-grow: 0;
+    text-decoration: none;
   }
 
   #h5 {
@@ -74,6 +78,23 @@
     bottom: 0%;
     background: linear-gradient(90deg, #A02279 11.45%, #A02279 11.45%);
     border-radius: 10px;
+    text-decoration: none;
+    width: 170px;
+    height: 48px;
+  }
+
+  #text {
+    position: absolute;
+    width: 117px;
+    height: 20px;
+    left: 27px;
+    top: 0px;
+    font-family: 'Red Rose';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FFFFFF;
   }
 
   #ancors {

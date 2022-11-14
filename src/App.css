@@ -132,12 +132,6 @@
     bottom: 15.97%;
   }
 
-  .row { 
-    border-radius: 16px;
-    float: right;
-    padding: 10px;
-  }
-
   #para2 {
     font-family: 'Red Rose';
     font-style: normal;
@@ -316,4 +310,13 @@
     left: 0px;
     top: 0px;
     background: linear-gradient(124.4deg, #FFFFFF 10.8%, #FFFFFF 87.34%);
+  }
+
+  #first4 {
+    width: 476px;
+    height: 459px;
+    flex: none;
+    left: 745px;
+    position: absolute;
+    top: 100px;
   }

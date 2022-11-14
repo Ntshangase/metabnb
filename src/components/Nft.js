@@ -7,17 +7,13 @@ export default function Nft() {
         <div id='Backnft'>
             <h2 id='slog2'>Metabnb NFTs</h2>
             <img id="slant" src={slantframe} alt='slantframe' />
-            <p>
-                <dl id='para3'>
-                    <dt>Discover our NFT gift cards collection. Loyal</dt>
-                    <dt>customers gets amazing gift cards which are</dt>
-                    <dt>traded as NFTs. These NFTs gives our cutomer</dt>
-                    <dt>access to loads of our exclusive services.</dt>
-                </dl>
-                <img id="lenButton" src={learn} alt='learnButton' />
-            </p>
-
-
+            <dl id='para3'>
+                <dt>Discover our NFT gift cards collection. Loyal</dt>
+                <dt>customers gets amazing gift cards which are</dt>
+                <dt>traded as NFTs. These NFTs gives our cutomer</dt>
+                <dt>access to loads of our exclusive services.</dt>
+            </dl>
+            <img id="lenButton" src={learn} alt='learnButton' />
         </div>
     )
 }

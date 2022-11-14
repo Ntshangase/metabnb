@@ -6,7 +6,7 @@ import Nft from './components/Nft';
 
 export default function homepage() {
   return ( 
-    <div>
+    <div id="homepage" >
     <Navbar></Navbar>
     <Body />
     <Adventure />

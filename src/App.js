@@ -1,10 +1,10 @@
-//import Homepage from './homepage.js';
+import Homepage from './homepage.js';
 import './App.css';
-import Places from '/home/mntwana/metabnb/src/components/Places.js';
+//import Places from '/home/mntwana/metabnb/src/components/Places.js';
 
 function App() {
   return (
-    <Places />
+    <Homepage />
   );
 }
 

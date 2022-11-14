@@ -10,7 +10,8 @@ import place8 from '/home/mntwana/metabnb/src/Assets/place8.png';
 
 export default function adventure() {
     return (
-        <div>
+        <div id='adventurepage'>
+            <h1 id='slogan'>Inspiration for your next adventure</h1>
             <div className="row2">
                 <div>
                     <img className="Fit" src={place1} alt='place1' />

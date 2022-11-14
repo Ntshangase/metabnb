@@ -41,9 +41,6 @@ export default function Body() {
             <p>
                 <img id="frame1" src={frame1} alt='frame1' />
             </p>
-            <h1 id='slogan'>Inspiration for your next adventure</h1>
-
-
         </div>
     )
 }

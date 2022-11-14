@@ -8,8 +8,7 @@
     padding: 10px 20px;
   }
   
-  /* Links inside the navbar     padding: 12px;
-    text-decoration: none; */
+  /* Links inside the navbar  */
     #h1 {
       width: 57px;
       height: 25px;
@@ -299,4 +298,13 @@
     height: 322px;
     left: 0px;
     top: 2568px;
+  }
+
+  #adventurepage {
+    position: absolute;
+    width: 1440px;
+    height: 963px;
+    left: 0px;
+    top: 831px;
+    background: #FFFFFF;
   }

@@ -4,10 +4,12 @@ import wintercastle1 from '/home/mntwana/metabnb/src/Assets/wintercastle1.png';
 import playground1 from '/home/mntwana/metabnb/src/Assets/playgound1.png';
 import castle1 from '/home/mntwana/metabnb/src/Assets/castle1.png';
 import frame1 from '/home/mntwana/metabnb/src/Assets/Frame 1.png';
+import Navbar from './Navbar';
 
 export default function Body() {
     return (
-        <div>
+        <div id="bodypage">
+            <Navbar></Navbar>
             <p>
                 <div className="row">
                     <div className="column">

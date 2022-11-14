@@ -20,30 +20,30 @@ export default function View() {
     return (
         <div id="view">
             <div>
-                <div id="colum1">
-                    <img className="Fit" src={place1} alt='place1' />
-                    <img className="Fit" src={place2} alt='place2' />
-                    <img className="Fit" src={place3} alt='place3' />
-                    <img className="Fit" src={place4} alt='place4' />
+                <div>
+                    <img src={place1} alt='place1' />
+                    <img src={place2} alt='place2' />
+                    <img src={place3} alt='place3' />
+                    <img src={place4} alt='place4' />
                 </div>
-                <div id="colum2" >
-                    <img className="Fit" src={place5} alt='place5' />
-                    <img className="Fit" src={place6} alt="place6" />
-                    <img className="Fit" src={place7} alt='place7' />
-                    <img className="Fit" src={place8} alt='place8' />
+                <div>
+                    <img src={place5} alt='place5' />
+                    <img src={place6} alt="place6" />
+                    <img src={place7} alt='place7' />
+                    <img src={place8} alt='place8' />
 
                 </div>
-                <div id="colum3">
-                    <img className="Fit" src={place9} alt='place9' />
-                    <img className="Fit" src={place10} alt='place10' />
-                    <img className="Fit" src={place11} alt='place11' />
-                    <img className="Fit" src={place12} alt='place12' />
+                <div>
+                    <img src={place9} alt='place9' />
+                    <img src={place10} alt='place10' />
+                    <img src={place11} alt='place11' />
+                    <img src={place12} alt='place12' />
                 </div>
-                <div id="colum4" >
-                    <img className="Fit" src={place13} alt='place13' />
-                    <img className="Fit" src={place14} alt="place14" />
-                    <img className="Fit" src={place15} alt='place15' />
-                    <img className="Fit" src={place16} alt='place16' />
+                <div>
+                    <img src={place13} alt='place13' />
+                    <img src={place14} alt="place14" />
+                    <img src={place15} alt='place15' />
+                    <img src={place16} alt='place16' />
 
                 </div>
             </div>

@@ -3,6 +3,7 @@ import Navbar from './components/Navbar';
 import Body from './components/Body';
 import Adventure from './components/adventure';
 import Nft from './components/Nft';
+import Footer from './components/Footer';
 
 export default function homepage() {
   return ( 
@@ -11,6 +12,7 @@ export default function homepage() {
     <Body />
     <Adventure />
     <Nft />
+    <Footer />
     </div>
 
   )

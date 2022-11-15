@@ -199,7 +199,7 @@
   #Backnft {
     box-sizing: border-box;
     position: absolute;
-    width: 1440px;
+    width: 100%;
     height: 774px;
     left: 0px;
     top: 1794px;
@@ -255,13 +255,13 @@
     position: absolute;
     width: 704px;
     height: 574.85px;
-    left: 637px;
+    left: 607px;
     top: 100px;
   }
 
   #backplaces {
     position: relative;
-    width: 1440px;
+    width: 100%;
     height: 2292px;
     background: #FFFFFF;
   }
@@ -273,7 +273,7 @@
     padding: 0px;
     gap: 24px;
     position: absolute;
-    width: 1240px;
+    width: 100%;
     height: 1560px;
     left: 100px;
     top: 318px;
@@ -281,14 +281,14 @@
 
   #homepage {
     position: relative;
-    width: 1440px;
+    width: 100%;
     height: 2890px;
     background: #FFFFFF;
   }
 
   #footerpage {
     position: absolute;
-    width: 1440px;
+    width: 100%;
     height: 322px;
     left: 0px;
     top: 2568px;
@@ -296,7 +296,7 @@
 
   #adventurepage {
     position: absolute;
-    width: 1440px;
+    width: 100%;
     height: 963px;
     left: 0px;
     top: 831px;
@@ -305,7 +305,7 @@
 
   #bodypage {
     position: absolute;
-    width: 1440px;
+    width: 100%;
     height: 742px;
     left: 0px;
     top: 0px;

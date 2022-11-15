@@ -19,7 +19,6 @@ import place16 from '/home/mntwana/metabnb/src/Assets/place16.png';
 export default function View() {
     return (
         <div id="view">
-            <div>
                 <div>
                     <img src={place1} alt='place1' />
                     <img src={place2} alt='place2' />
@@ -46,7 +45,6 @@ export default function View() {
                     <img src={place16} alt='place16' />
 
                 </div>
-            </div>
         </div>
 
     )

@@ -1,12 +1,10 @@
 import React from 'react';
-import Hhouse from '/home/mntwana/metabnb/src/Assets/Hhouse.png';
-import Hmeta from '/home/mntwana/metabnb/src/Assets/Hmetabnb.png';
+import Metaheader from '/home/mntwana/metabnb/src/Assets/metaheader.png';
 
 export default function Navbar() {
   return (
     <div className="navbar">
-      <img id="house" src={Hhouse} alt="House" ></img>
-      <img id="meta" src={Hmeta} alt="Hmeta" ></img>
+      <img id="meta" src={Metaheader} alt="House" ></img>
 
       <div id='ancors'>
         <a id="h1" href="#home">Home</a>
@@ -14,7 +12,7 @@ export default function Navbar() {
         <a id="h3" href="#nft">NFTs</a>
         <a id="h4" href="#community">Community</a>
       </div>
-      <a id="h5" href="wallet"><p id='text'>Connect wallet</p></a>
+      <a className="h5 text"  href="wallet">Connect wallet</a>
     </div>
   )
 }

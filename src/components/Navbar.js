@@ -7,8 +7,8 @@ export default function Navbar() {
       <img id="meta" src={Metaheader} alt="House" ></img>
 
       <div id='ancors'>
-        <a id="h1" href="#home">Home</a>
-        <a id='h2' href="#place">Place to Stay</a>
+        <a id="h1" href="/">Home</a>
+        <a id='h2' href="/places">Place to Stay</a>
         <a id="h3" href="#nft">NFTs</a>
         <a id="h4" href="#community">Community</a>
       </div>
